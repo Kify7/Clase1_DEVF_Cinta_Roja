@@ -1,0 +1,26 @@
+{
+  "name": "jsasync",
+  "version": "1.0.0",
+  "description": "primer npm",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js",
+    "hilos": "node hilos_de_ejecucion.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Kify7/Clase1_DEVF_Cinta_Roja"
+  },
+  "keywords": [
+    "Hello",
+    "World",
+    "NPM"
+  ],
+  "author": "Charlie Flores",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kify7/npm_prueba/issues"
+  },
+  "homepage": "https://github.com/Kify7/npm_prueba#readme"
+}

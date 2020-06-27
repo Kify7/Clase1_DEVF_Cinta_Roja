@@ -1,0 +1,25 @@
+Historia de los Lenguajes de programación
+
+Lenguaje Bajo nivel
+Lenguaje alto nivel
+
+
+
+Java Script es un Lenguaje de Alto Nivel:
+
+-Complilados : no debe tener errores o no se puede ejecutar:
+    *C
+    *C++(CODEBLOCKS)
+
+-Pseudocomplilados: 
+    *JAVA (byte code => Máquina Virtual) propone una nueva tecnica de desarrollo:
+    -Maquina Virtual instalada dentro del sistema operativo.
+    -Se prepara el lenguaje para un intermediario. 
+    -La ventaja (generar aplicaciones multiplataforma)
+
+-Interpretados : No pasan por un compilador.
+    *Java
+
+Lenguaje Ensamblador:
+__________________________________________
+ES6
