@@ -1,0 +1,20 @@
+{
+  "name": "6_requests",
+  "version": "1.0.0",
+  "description": "aprendiendo requests",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
+  },
+  "keywords": [
+    "npm",
+    "request",
+    "nodejs"
+  ],
+  "author": "Karla Flores",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
